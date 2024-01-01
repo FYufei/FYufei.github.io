@@ -1,8 +1,4 @@
 ---
-typora-root-url: F:\FeiiBlog\FYufei.github.io\img
----
-
-```
 layout:     post
 title:      "2023丨回望"
 subtitle:   " \"我不敢奢望人生中还能有如此幸福的一年。\""
@@ -11,8 +7,8 @@ author:     "Yufeii"
 header-img: "img/in-post/post-1-huiwang/hd-poster.png"
 catalog: true
 tags:
-    - 记录时光
-```
+    - 我真的忘性很大
+---
 
 一小时前，我脑内已经想好了这篇年度回顾的开头。我要说：“此刻我正吃完火锅，从冰箱里掏出之前存下的麦当劳抹茶豆乳麦旋风，在电脑前一边与冻结实的冰淇淋搏斗，一边琢磨怎么才能在十二点前把今年的总结水出来。”
 
