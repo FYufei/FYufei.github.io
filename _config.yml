@@ -1,10 +1,15 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: FYfei Blog
+SEOTitle: FYfei Blog（中文） | FYfei Blog
+# 下面的是首页的图片，想换图片把下面的路径的图片给换掉
 header-img: img/home-bg.jpg
+# 你的电子邮箱
 email: huxpro@gmail.com
+# 简介
 description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+# 可以改
 keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+# 可以改
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -12,6 +17,7 @@ baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 future: true
 
 # SNS settings
+# 可以改
 RSS: false
 weibo_username: huxpro
 zhihu_username: huxpro
