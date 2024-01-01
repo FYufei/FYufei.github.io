@@ -1,6 +1,6 @@
 # Site settings
-title: Feii Blog
-SEOTitle: Voidland
+title: The Land of Void
+SEOTitle: Void Land
 header-img: img/home-bg.jpg
 email: fyufeii@gmail.com
 description: "\"乏善可陈。\""
@@ -17,6 +17,7 @@ RSS: false
 # zhihu_username: huxpro
 # github_username: huxpro
 twitter_username: Venlafaxinel
+telegram_username: Floatingrainn
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
