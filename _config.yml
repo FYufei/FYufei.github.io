@@ -75,7 +75,7 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "我与我周旋久，宁作我。 <br> Telegram @Floatingrainn "
+sidebar-about-description: "我与我周旋久，宁作我。"
 sidebar-avatar: https://github.com/Fyufei.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
